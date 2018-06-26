@@ -11,6 +11,6 @@
   "license": "",
   "name": "warnings.v0",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 
